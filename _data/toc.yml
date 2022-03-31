@@ -10,6 +10,11 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
+    - title: ima
+      url: "docs/ima/ima"
+      children:
+        - title: subima
+          url: "docs/ima/subima"
     - title: "About"
       url: "about"
     - title: "News"

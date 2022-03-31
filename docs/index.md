@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+home: true
+heroImage: https://statics.arcsecond.io/img/logo-circle.png
+heroAlt: Arcsecond Logo
+heroText: Arcsecond CLI
+tagline: The command-line utility / Python module to access the resources of Arcsecond.io.
+actionText: Install & Setup
+actionLink: /install/
+features:
+  - title: Command-Line
+    details: All the public and private Arcsecond.io resources (objects, exoplanets, datasets...) right into your Terminal.
+  - title: Python Module
+    details: All the Arcsecond.io resources inside your Python code! Easily plan observations with your own custom rules.
+footer: MIT Licensed | Copyright © 2018-present Arcsecond.io (F52 Tech).
+---
 
-You can use the [editor on GitHub](https://github.com/imayr/site1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Arcsecond.io ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imayr/site1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Arcsecond.io is a unique and comprehensive cloud platform made by 
+astronomers for astronomers providing all the necessary resources and tools 
+for preparing astronomical observations.
